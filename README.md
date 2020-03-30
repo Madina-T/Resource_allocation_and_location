@@ -14,6 +14,6 @@ Pour faire tourner ce projet vous aurez besoin de :
 
 L'ensemble du code peut être testé dans le Notebook intitulé mogpl_projet.ipynb.
 
-### Auteure
+### Auteurs
 
-Madina Traoré
+Antonin Arberet et Madina Traoré
